@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes, filters, MessageHandler
 
 Context = ContextTypes.DEFAULT_TYPE
-BOT_TOKEN = "5675226758:AAF7dwBy_9M593SlSyO0DJb2NUXlz4jnt-c"
+BOT_TOKEN = "ENTER BOT TOKEN"
 
 files = {}
 
